@@ -1,2 +1,2 @@
 # Aprendendo-C
-Meu aprendizado em C
+Meu aprendizado em C.
