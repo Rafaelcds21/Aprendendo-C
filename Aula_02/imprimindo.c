@@ -15,5 +15,7 @@ int main()
     // Todo tipo de caracter entre aspas será impresso.
     printf("123");
 
+    printf("Valor esperado: %d", printf("\nOi\n"));
+
     return 0;
 }
